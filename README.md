@@ -1,2 +1,0 @@
-# px
-px.qts.life
