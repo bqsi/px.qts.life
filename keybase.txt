@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bqsi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://px.qts.life
+  * I am bqsi (https://keybase.io/bqsi) on keybase.
+  * I have a public key ASCLZ74etXGEnQHNygYiVHBOJXwZ5mWlnB6McA94l8oBHwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208b67be1eb571849d01cdca062254704e257c19e665a59c1e8c700f7897ca011f0a",
+      "host": "keybase.io",
+      "kid": "01208b67be1eb571849d01cdca062254704e257c19e665a59c1e8c700f7897ca011f0a",
+      "uid": "c6cd8823dc6b0f54f3d00f9c6da14819",
+      "username": "bqsi"
+    },
+    "merkle_root": {
+      "ctime": 1605829047,
+      "hash": "6a95bbd5e26840a483ad0dd2628d61b7f9851fbf65d283863ce0ebd41260b9b1f6d2ff03c469337d3f3b475b69dfe95f16842c7529c2fe6b02e9757ee494d6da",
+      "hash_meta": "fe37a5e174851d40ecf75febee0b4fd0e6dc6116186e1d02581ce4565341cc41",
+      "seqno": 18174090
+    },
+    "service": {
+      "entropy": "cgIIOGusd/hnzutekj2r0OX7",
+      "hostname": "px.qts.life",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1605829084,
+  "expire_in": 504576000,
+  "prev": "e0f441321de4ef6661134ca4a39a84f87c2e118bd60d90ad9c6901daf93ac500",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi2e+HrVxhJ0BzcoGIlRwTiV8GeZlpZwejHAPeJfKAR8Kp3BheWxvYWTESpcCE8Qg4PRBMh3k72ZhE0yko5qE+HwuEYvWDZCtnGkB2vk6xQDEIAkcXVC04pO1Tr9avCG0pyqNMKkDEmPtp4M4eYw7bbEsAgHCo3NpZ8RAg5cf9A5KhTVkl0q9EcVLwjOJUi7Ax4SHMqBfFemESYdn2q+BLhbjbUExaflAiFAxZINGu5dJWTETVRCSuz/uBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGTXm4qrx2nwLzCjxcFYC2iGr/3i3uuxF9c72NyqlrYVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bqsi
+
+==================================================================
