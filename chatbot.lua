@@ -21,11 +21,11 @@ local Active = true
 local AcceptingOthers = true
 local FireWarnings = true
 
+-- Return a string with title casing.
+-- e.g "hello" -> "Hello"
 function firstToUpper(str)
     return (str:gsub("^%l", string.upper))
 end
-
--- This looks messy, I know. But, it'll help me out later.
 
 function fireDialog(text, type)
     sgui:SetCore('ChatMakeSystemMessage', {
@@ -45,9 +45,6 @@ local HttpGet = function(link)
     if not success then warn'API Call Failed. Check your link!' end
     return content
 end
-
--- Return a string with title casing.
--- e.g "hello" -> "Hello"
 
 -- Shorthand to teleport the localplayer to someone.
 function TeleportTo(plr)
