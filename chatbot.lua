@@ -258,7 +258,8 @@ cbG.allcon = p.PlayerAdded:Connect(function(plr)
 end)
 
 -- Display a 'loaded' message.
-fireDialog("Chat bot loaded! Made by alexa#0001.", "dialog")
+fireDialog("Chat bot loaded! Made by alexa#0001 / pxl on V3rmillion.", "dialog")
+fireDialog("Happy chatting!", "dialog")
 
 CommandFunctions['!cmds']({nil})
 CommandFunctions['!denyothers']({nil})
