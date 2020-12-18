@@ -1,4 +1,4 @@
--- Chat Bot Script, made by alexa#0001!
+-- Chat Bot Script, made by alexa#0001 / pxl on V3rmillion.
 -- I don't mind you using this code, modifying it, or anything like that.
 -- No bullshit licenses, no terms, whitelists, etc.
 -- Please do credit me if you find the kindness in your heart and you're reposting this somewhere.
