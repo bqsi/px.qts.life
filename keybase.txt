@@ -6,7 +6,7 @@ I hereby claim:
 
   * I am an admin of https://px.qts.life
   * I am bqsi (https://keybase.io/bqsi) on keybase.
-  * I have a public key ASCLZ74etXGEnQHNygYiVHBOJXwZ5mWlnB6McA94l8oBHwo
+  * I have a public key ASAsBj8DgRY9UECMb-SYOwmMA3fawzP8j3LUSyL7IiPxeAo
 
 To do so, I am signing this object:
 
@@ -15,18 +15,18 @@ To do so, I am signing this object:
     "key": {
       "eldest_kid": "01208b67be1eb571849d01cdca062254704e257c19e665a59c1e8c700f7897ca011f0a",
       "host": "keybase.io",
-      "kid": "01208b67be1eb571849d01cdca062254704e257c19e665a59c1e8c700f7897ca011f0a",
+      "kid": "01202c063f0381163d50408c6fe4983b098c0377dac333fc8f72d44b22fb2223f1780a",
       "uid": "c6cd8823dc6b0f54f3d00f9c6da14819",
       "username": "bqsi"
     },
     "merkle_root": {
-      "ctime": 1605829047,
-      "hash": "6a95bbd5e26840a483ad0dd2628d61b7f9851fbf65d283863ce0ebd41260b9b1f6d2ff03c469337d3f3b475b69dfe95f16842c7529c2fe6b02e9757ee494d6da",
-      "hash_meta": "fe37a5e174851d40ecf75febee0b4fd0e6dc6116186e1d02581ce4565341cc41",
-      "seqno": 18174090
+      "ctime": 1618428882,
+      "hash": "87390cd2c34189963dc27629955e60962b909eaea9d8e40305da97d4c72abdb900f94d68d1eba5c64c060c9723ed14f7762c98f406cf13608bb4c77bb77e8b6d",
+      "hash_meta": "67e7a3841297d71a604a36d0e2359a755fe0120b98aea2192b3f669c9233316b",
+      "seqno": 19633135
     },
     "service": {
-      "entropy": "cgIIOGusd/hnzutekj2r0OX7",
+      "entropy": "qb1liKAtbBMWMFGR0gzFPPPa",
       "hostname": "px.qts.life",
       "protocol": "https:"
     },
@@ -35,18 +35,18 @@ To do so, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.5.0"
+    "version": "5.6.0"
   },
-  "ctime": 1605829084,
+  "ctime": 1618428899,
   "expire_in": 504576000,
-  "prev": "e0f441321de4ef6661134ca4a39a84f87c2e118bd60d90ad9c6901daf93ac500",
-  "seqno": 19,
+  "prev": "eac1ddde5655183e334dac66c59a681cc7bd836e257a82c334036cf9ddf911ca",
+  "seqno": 30,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi2e+HrVxhJ0BzcoGIlRwTiV8GeZlpZwejHAPeJfKAR8Kp3BheWxvYWTESpcCE8Qg4PRBMh3k72ZhE0yko5qE+HwuEYvWDZCtnGkB2vk6xQDEIAkcXVC04pO1Tr9avCG0pyqNMKkDEmPtp4M4eYw7bbEsAgHCo3NpZ8RAg5cf9A5KhTVkl0q9EcVLwjOJUi7Ax4SHMqBfFemESYdn2q+BLhbjbUExaflAiFAxZINGu5dJWTETVRCSuz/uBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGTXm4qrx2nwLzCjxcFYC2iGr/3i3uuxF9c72NyqlrYVo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLAY/A4EWPVBAjG/kmDsJjAN32sMz/I9y1Esi+yIj8XgKp3BheWxvYWTESpcCHsQg6sHd3lZVGD4zTaxmxZpoHMe9g24leoLDNANs+d35EcrEIASU//SrHUmjDGEw/wiPopczJy/A2nOC69yBYSRNmSKpAgHCo3NpZ8RA3DvufJ6XWKU3EvoP/v0egOQ38u93yQ+F95S3ZBCh0b20E1OkKtWKhHFLp7fhU1y7Y+kVbBRvSh321nLEaWl4A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO7z20M7jznPUXJkwMvVRV2D35G6IGuuFSy8dYKTl0Eao3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
